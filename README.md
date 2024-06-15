@@ -13,9 +13,9 @@ GB Studio 3.0~ 向けの日本語フォント[Amaitorte Japanese](https://amaito
 
 ## Mochi Japanese with Lowercase
 
-- Mochi Japaneseと同じ字形に小文字アルファベットを
+- Mochi Japaneseと同じ字形で、小文字アルファベットを追加したもの
 - ひらがな、カタカナ、アルファベット（大文字）、アルファベット（小文字）、記号（!?.ー）
-- 文字数の都合で「ゔ」「ヴ」が入っていなかったりと色々制約があります
+- 文字数の都合で「ゔ」「ヴ」が入っていなかったり、記号が最小限しか入ってなかったりと色々制約があります
 
 <img width="40%" src="https://github.com/uimss/mochi_jp/assets/7157477/26083f1c-cc51-44f0-8341-fa6ab8fa428e" alt="screenshot2">
 <img width="40%" src="https://github.com/uimss/mochi_jp/assets/7157477/002a9cff-0f73-49c2-83f0-ff502526711e" alt="mochi_jp_withLowercase">
