@@ -3,6 +3,8 @@
 GB Studio 3.0~ 向けの日本語フォント[Amaitorte Japanese](https://amaitorte.jp/others/lab/amtjp-gbstudio-font) をベースに、
 字形を[quanPixel](https://diaowinner.itch.io/galmuri-extended)を参考に一部調整したフォントアセットです。
 
+[ダウンロード (ZIP)](https://github.com/uimss/mochi_jp/archive/refs/heads/main.zip)
+
 ## Mochi Japanese
 
 - Amaitorte Japanese と完全に同一の文字セット
