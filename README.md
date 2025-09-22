@@ -11,7 +11,7 @@ GB Studio 3.0~ 向けの日本語フォント[Amaitorte Japanese](https://amaito
 - ひらがな、カタカナ、アルファベット（大文字）、一部の記号が使用可能
 
 <img width="40%" src="https://github.com/uimss/mochi_jp/assets/7157477/2092e390-656d-4a9d-9d82-b7445e92e74a" alt="screenshot1">
-<img width="40%" src="https://github.com/uimss/mochi_jp/assets/7157477/1913b31e-564c-40a1-a552-6ae37bfbc6ff" alt="mochi_jp">
+<img width="40%" src="https://github.com/uimss/mochi_jp/blob/main/fonts/mochi_jp.png?raw=true" alt="mochi_jp">
 
 ## Mochi Japanese with Lowercase
 
@@ -20,7 +20,7 @@ GB Studio 3.0~ 向けの日本語フォント[Amaitorte Japanese](https://amaito
 - 文字数の都合で「ゔ」「ヴ」が入っていなかったり、記号が最小限しか入ってなかったりと色々制約があります
 
 <img width="40%" src="https://github.com/uimss/mochi_jp/assets/7157477/26083f1c-cc51-44f0-8341-fa6ab8fa428e" alt="screenshot2">
-<img width="40%" src="https://github.com/uimss/mochi_jp/assets/7157477/002a9cff-0f73-49c2-83f0-ff502526711e" alt="mochi_jp_withLowercase">
+<img width="40%" src="https://github.com/uimss/mochi_jp/blob/main/fonts/mochi_jp_withLowercase.png?raw=true" alt="mochi_jp_withLowercase">
 
 # 使い方
 
